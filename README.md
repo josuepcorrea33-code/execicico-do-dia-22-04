@@ -1,4 +1,5 @@
-exercicio do dia 22/04/26    ]<!DOCTYPE html>
+exercicio do dia 22/04/26    
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <m\\eta charset="UTF-8">
